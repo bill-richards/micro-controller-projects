@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bill's Micro-controller projects
 
 You can use the [editor on GitHub](https://github.com/bill-richards/micro-controller-projects/edit/develop/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
