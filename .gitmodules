@@ -1,0 +1,3 @@
+[submodule "esp32/mutext-example"]
+	path = esp32/mutext-example
+	url = https://github.com/bill-richards/esp32-mutex-example.git
